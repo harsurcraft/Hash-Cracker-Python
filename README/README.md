@@ -7,7 +7,7 @@ How it work !?
 This script need to a wordlist, the script hash the wordlist word and check if the hasshed as chosed word as print that word.!
 
 How to run !?
-you can run the main.py with python or use the Cracker.bat for windows and Cracker.sh for linux
+you can run the main.py with python .
 
 What happed when you ran it !?
 First it will print the helping message and logo second you need to enter the hasshed word third you need to chose one of the printed types then you need to enter the wordlist location at the last it will print the un hashed word
