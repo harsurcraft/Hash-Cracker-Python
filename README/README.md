@@ -1,4 +1,4 @@
-In te name of God
+# In te name of God
 
 Hello and welcome,
 This script is for un hashin teh hasshed codes.
