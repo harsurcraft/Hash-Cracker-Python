@@ -4,7 +4,7 @@
 # You can use this app to unhash a password some times it diden't work
 # Then you can crack the seceret code with this app
 # _____________________________________________________________________________________________________
-# By MR.Harsurcraft
+# By Matin Abedini
 #
 # __________codes__________
 #
