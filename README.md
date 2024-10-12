@@ -19,4 +19,4 @@ I try to fix all of the bugs, but every application has some bug, also i try som
 
 
 The End of README.TXT, Godbye:
-by MR.Harsurcraft
+by Matin Abedini
