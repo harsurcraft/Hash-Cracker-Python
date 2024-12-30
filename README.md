@@ -1,5 +1,5 @@
 
-# In te name of God
+# In the name of GOD
 # Hash-Cracker-Python
 
 Hello and welcome,
